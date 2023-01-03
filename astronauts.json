@@ -4,82 +4,94 @@
     "apollo": 11,
     "landed": "1969-07-20T20:17:39.000Z",
     "departed": "1969-07-22T02:39:33.000Z",
-    "moon_time": 21.67
+    "moon_time": 21.67,
+    "total_space_flights": 2
 }, {
     "name": "Buzz Aldrin",
     "age": 39.24,
     "apollo": 11,
     "landed": "1969-07-20T20:17:39.000Z",
     "departed": "1969-07-22T02:39:33.000Z",
-    "moon_time": 21.67
+    "moon_time": 21.67,
+    "total_space_flights": 2
 }, {
     "name": "Pete Conrad",
     "age": 35.77,
     "apollo": 12,
     "landed": "1969-11-14T17:54:37.000Z",
     "departed": "1969-11-16T05:35:22.000Z",
-    "moon_time": 31.5
+    "moon_time": 31.5,
+    "total_space_flights": 3
 }, {
     "name": "Alan Bean",
     "age": 34.77,
     "apollo": 12,
     "landed": "1969-11-14T17:54:37.000Z",
     "departed": "1969-11-16T05:35:22.000Z",
-    "moon_time": 31.5
+    "moon_time": 31.5,
+    "total_space_flights": 2
 }, {
     "name": "Alan Shepard",
     "age": 47.24,
     "apollo": 14,
     "landed": "1971-02-05T17:39:13.000Z",
     "departed": "1971-02-06T05:54:08.000Z",
-    "moon_time": 9.92
+    "moon_time": 9.92,
+    "total_space_flights": 2
 }, {
     "name": "Edgar Mitchell",
     "age": 41.24,
     "apollo": 14,
     "landed": "1971-02-05T17:39:13.000Z",
     "departed": "1971-02-06T05:54:08.000Z",
-    "moon_time": 9.92
+    "moon_time": 9.92,
+    "total_space_flights": 1
 }, {
     "name": "David Scott",
     "age": 35.96,
     "apollo": 15,
     "landed": "1971-07-30T16:45:05.000Z",
     "departed": "1971-08-02T01:11:53.000Z",
-    "moon_time": 66.81
+    "moon_time": 66.81,
+    "total_space_flights": 3
 }, {
     "name": "James Irwin",
     "age": 38.96,
     "apollo": 15,
     "landed": "1971-07-30T16:45:05.000Z",
     "departed": "1971-08-02T01:11:53.000Z",
-    "moon_time": 66.81
+    "moon_time": 66.81,
+    "total_space_flights": 1
 }, {
     "name": "John Young",
     "age": 41.96,
     "apollo": 16,
     "landed": "1972-04-21T02:23:35.000Z",
     "departed": "1972-04-23T01:07:11.000Z",
-    "moon_time": 65.94
+    "moon_time": 65.94,
+    "total_space_flights": 6
 }, {
     "name": "Charles Duke",
     "age": 36.19,
     "apollo": 16,
     "landed": "1972-04-21T02:23:35.000Z",
     "departed": "1972-04-23T01:07:11.000Z",
-    "moon_time": 65.94
+    "moon_time": 65.94,
+    "total_space_flights": 1
 }, {
     "name": "Eugene Cernan",
     "age": 39.24,
     "apollo": 17,
     "landed": "1972-12-11T17:54:08.000Z",
     "departed": "1972-12-14T05:25:35.000Z",
-    "moon_time": 75.53
+    "moon_time": 75.53,
+    "total_space_flights": 3
 }, {
     "name": "Harrison Schmitt",
     "age": 36.24,
     "apollo": 17,
     "landed": "1972-12-11T17:54:08.000Z",
     "departed": "1972-12-14T05:25:35.000Z",
-    "moon_time": 75.53
+    "moon_time": 75.53,
+    "total_space_flights": 1
 }]
